@@ -1,9 +1,9 @@
 #### UF1-A2_Documentar_Con_Markdown_IkerLunaCruz
-# ¡Documentación con Markdown!
+# ¡Documentación sobre markdown!
 
 Nada más empezar lo primero que hemos tenido que hacer es instalarnos el Visual studio, el git, y nuestra cuenta en github.
 
-### · ¿Que es el visual studio code y como se instala?
+### 1- VISUAL STUDIO CODE
 
 >Es un editor de código fuente independiente que se ejecuta en Windows, macOS y Linux. La elección principal para desarrolladores web y JavaScript, con extensiones para admitir casi cualquier lenguaje de programación.
 
@@ -11,33 +11,38 @@ Para poder descargar esta aplicación hemos tenido que ir a la pagina principal 
 
 ![xxs](https://www.thewindowsclub.com/wp-content/uploads/2019/07/Visual-Studio-Code-Insider.png)
 
-A continuación os he puesto un enlace de un video donde explican detalladamente como se hace la instalación del visual studio code en windows.
 
->[!VIDEO](https://youtu.be/tA8fXGbtavg)
 - Esta es la pagina principal de visual estudio code:   [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
-### · ¿Que es el git y como se instala?
-
->Es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad.
-
-Para poder descargarlo hemos tenido que acceder a la pagina principal de git, y nos hemos descargado la versión que mejor nos sirva. Que en este caso es la de 64 bits.
-
-![xhs](https://res.cloudinary.com/practicaldev/image/fetch/s--l82BOzKA--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
-
-A continuación he dejado un enlace de un bideo que explica como se insta el git en windows.
-
->[!VIDEO](https://youtu.be/7qzV04C5S-k)
-- Esta es la pagina principal de git:   [GIT](https://git-scm.com/)
-
-### · ¿Que es github y como se instala?
+### 2- GITHUB
 
 >Es una plataforma de alojamiento de código para el control de versiones y la colaboración. Te permite a ti y a otros trabajar juntos en proyectos desde cualquier lugar.
 
 >Github sirve para poder alojar proyectos en repositorios gratuitamente, obtener herramientas útiles para realizar trabajos en equipos, aportar tu contribución a mejorar el código fuente de otros usuarios, y interactuar con personas similares a ti...
 
-Ahora os dejare 
-[Comandos de github](https://www.hostinger.es/tutoriales/comandos-de-git)
-### · ¿Que es HTML y para que sirve?
+#### 2-1 Instalacion del git
+
+- Descargaremos el instalador Git. (depende del sistema operativo será linux o windows).
+- Para poder descargarlo hemos tenido que acceder a la pagina principal de git, y nos hemos descargado la versión que mejor nos sirva. Que en este caso es la de 64 bits.
+- Una vez que haya descargado el instalador, hacemos doble clic sobre el ejecutable para que comience el proceso de instalación y siga las instrucciones que te aparecerán en pantalla. Al igual que cualquier otro programa, tendrás que dar “Next” (siguiente) en varias ocasiones hasta que apareció la opción “Finish” (terminar) para completar la instalación.
+
+#### 2-2 Registrarnos en el github.
+
+>Deberemos de irnos a [Github](https://github.com/) y deberemos de escribir el nombre de usuario, su dirección de correo electronico y una contraseña, y deberemos de seguir todos los pasos que nos indica.
+
+#### 2-3 Como crear repositorios.
+
+Una vez instalado el git y el visual studio code deberemos de irnos a la pagina de github al apartado de repositorios y le tendremos que dar a la opción de "New". Una vez dado a new deberemos de ponerle un nombre al repositorio y le tendremos que dar a la opción de public, para que lo puedan ver las demás personas y añadir el readme file. Y para finalizar darle a la opción de crear repositorio.
+![capt1](https://user-images.githubusercontent.com/90915761/194951424-bc54cfcb-d8b0-417e-9a4d-bc3d545c11ff.png)
+![capt2](https://user-images.githubusercontent.com/90915761/194952406-7df94f9b-4c4f-41e8-9077-9efcf5eeb421.png)
+
+#### 2-4 Clonación de repositorio 
+
+
+![capt3](https://user-images.githubusercontent.com/90915761/194954895-63549384-def9-463c-a575-bcca4bac23b0.png)
+
+
+### 4- ¿Que es HTML y para que sirve?
 
 HTML -> HyperText Markup Language.
 >Es un estándar que define la estructura básica y el código (llamado código HTML) para definir contenido web como texto, imágenes, videos, juegos, etc.
