@@ -9,7 +9,7 @@ Nada más empezar lo primero que hemos tenido que hacer es instalarnos el Visual
 
 Para poder descargar esta aplicación hemos tenido que ir a la pagina principal de visual studio y nos hemos descargado la versión que mejor nos vaya. Que en nuestro caso es la de 64 bits.
 
->[!VIDEO](https://www.youtube.com/watch?v=tA8fXGbtavg)
+>[!VIDEO](https://youtu.be/tA8fXGbtavg)
 - Esta es la pagina principal de visual estudio code:   [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
 ### · ¿Que es el git y como se instala?
