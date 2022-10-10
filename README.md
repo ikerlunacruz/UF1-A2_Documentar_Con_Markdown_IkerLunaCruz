@@ -9,6 +9,10 @@ Nada más empezar lo primero que hemos tenido que hacer es instalarnos el Visual
 
 Para poder descargar esta aplicación hemos tenido que ir a la pagina principal de visual studio y nos hemos descargado la versión que mejor nos vaya. Que en nuestro caso es la de 64 bits.
 
+![xxs](https://www.thewindowsclub.com/wp-content/uploads/2019/07/Visual-Studio-Code-Insider.png)
+
+A continuación os he puesto un enlace de un video donde explican detalladamente como se hace la instalación del visual studio code en windows.
+
 >[!VIDEO](https://youtu.be/tA8fXGbtavg)
 - Esta es la pagina principal de visual estudio code:   [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
@@ -19,6 +23,10 @@ Para poder descargar esta aplicación hemos tenido que ir a la pagina principal 
 Para poder descargarlo hemos tenido que acceder a la pagina principal de git, y nos hemos descargado la versión que mejor nos sirva. Que en este caso es la de 64 bits.
 
 ![xhs](https://res.cloudinary.com/practicaldev/image/fetch/s--l82BOzKA--/c_imagga_scale,f_auto,fl_progressive,h_720,q_auto,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/rixan4h4z8y94eq89som.png)
+
+A continuación he dejado un enlace de un bideo que explica como se insta el git en windows.
+
+>[!VIDEO](https://youtu.be/7qzV04C5S-k)
 - Esta es la pagina principal de git:   [GIT](https://git-scm.com/)
 
 ### · ¿Que es github y como se instala?
@@ -27,7 +35,7 @@ Para poder descargarlo hemos tenido que acceder a la pagina principal de git, y 
 
 >Github sirve para poder alojar proyectos en repositorios gratuitamente, obtener herramientas útiles para realizar trabajos en equipos, aportar tu contribución a mejorar el código fuente de otros usuarios, y interactuar con personas similares a ti...
 
-
+[Comandos de github](https://www.hostinger.es/tutoriales/comandos-de-git)
 ### · ¿Que es HTML y para que sirve?
 
 HTML -> HyperText Markup Language.
