@@ -1,8 +1,6 @@
 #### UF1-A2_Documentar_Con_Markdown_IkerLunaCruz
 # ¡Documentación sobre markdown!
 
-Nada más empezar lo primero que hemos tenido que hacer es instalarnos el Visual studio, el git, y nuestra cuenta en github.
-
 ### 1- VISUAL STUDIO CODE
 
 >Es un editor de código fuente independiente que se ejecuta en Windows, macOS y Linux. La elección principal para desarrolladores web y JavaScript, con extensiones para admitir casi cualquier lenguaje de programación.
@@ -41,8 +39,14 @@ Una vez instalado el git y el visual studio code deberemos de irnos a la pagina 
 
 ![capt3](https://user-images.githubusercontent.com/90915761/194954895-63549384-def9-463c-a575-bcca4bac23b0.png)
 
+>Para que Github nos de el código, deberemos de darle a la opción "code" y una vez dado nos saldrá el enlce el cual queremos clonar.
+Después d haber copiado el codigo, debemos ir a Visual Studio Code y utilizar el comando git clone para clonarlo localmente. Pero primero deberemos de escoger la carpeta a la cual queremos que se nos clone. Para ello deberemos de ir a la parte superior izquierda donde pone archivo, darle a la opción de open folder y seleccionaremos la carpeta donde queremos clonarlo. Y por ultimo abriremos la terminal y ejecutaremos:
 
-### 4- ¿Que es HTML y para que sirve?
+![git clone](https://user-images.githubusercontent.com/90915761/196207598-cdbdcab0-4526-4acb-b48e-6b2661a09862.png)
+
+
+
+### 3- HTML
 
 HTML -> HyperText Markup Language.
 >Es un estándar que define la estructura básica y el código (llamado código HTML) para definir contenido web como texto, imágenes, videos, juegos, etc.
