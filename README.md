@@ -44,9 +44,11 @@ Después d haber copiado el codigo, debemos ir a Visual Studio Code y utilizar e
 
 ![git clone](https://user-images.githubusercontent.com/90915761/196207598-cdbdcab0-4526-4acb-b48e-6b2661a09862.png)
 
+### 3- MARKDOWN
 
+- 
 
-### 3- HTML
+### 4- HTML
 
 HTML -> HyperText Markup Language.
 >Es un estándar que define la estructura básica y el código (llamado código HTML) para definir contenido web como texto, imágenes, videos, juegos, etc.
