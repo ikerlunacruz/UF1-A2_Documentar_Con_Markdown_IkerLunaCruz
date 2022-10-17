@@ -13,6 +13,7 @@ Para poder descargar esta aplicación hemos tenido que ir a la pagina principal 
 - Esta es la pagina principal de visual estudio code:   [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
 ### 2- GITHUB
+![encab3ezado1](https://user-images.githubusercontent.com/90915761/196219390-0f938f49-8053-46b6-8f10-d235097671e2.png)
 
 >Es una plataforma de alojamiento de código para el control de versiones y la colaboración. Te permite a ti y a otros trabajar juntos en proyectos desde cualquier lugar.
 
@@ -46,9 +47,32 @@ Después d haber copiado el codigo, debemos ir a Visual Studio Code y utilizar e
 
 ### 3- MARKDOWN
 
-- 
+- El "#" es uno de los métodos utilizados para crear encabezados en Markdown. Tienes que usarlos agregando uno para cada nivel. Por ejemplo:
+
+![Encabezados](https://user-images.githubusercontent.com/90915761/196219108-7006fc63-aec1-49b9-8b42-6e74e16470ad.png) 
+
+- Para agregar listas ordenadas en Markdown debes agregar un número seguido de un punto, un espacio y el elemento de la lista. La lista no debe estar ordenada numéricamente, pero debe comenzar por el número 1:
+
+![LISTAS ORDENADAS](https://user-images.githubusercontent.com/90915761/196225096-0bd8cdd5-4b65-4cbd-83fd-a398ed963906.png)
+
+- Para agregar listas no ordenadas en Markdown debes agregar un guion -, un signo más + o un asterisco * delante de los elementos de la lista:
+
+![LISTAS NO ORDENADAS](https://user-images.githubusercontent.com/90915761/196225457-6f83aedd-f5f8-4959-b7a8-34bafa6f5752.png)
+
+- Para agregar texto resaltado en negrita tendrás que usar dos asteriscos "**" o dos guiones bajos "__" al principio y al final de lo oración que quieres resaltar.
+
+![NEGRITA](https://user-images.githubusercontent.com/90915761/196226797-e67e162d-1c98-4137-bf9e-8fda8edb917a.png).
+
+- Para agregar texto en cursiva debes usar un solo asterisco "*" o un solo guión bajo "_" tanto al inicio como al final de lo oración que quieres marcar como cursiva.
+
+![CURSIVA](https://user-images.githubusercontent.com/90915761/196227126-35086c2f-1f6c-4a6a-8f37-ecebaa364f9c.png)
+
+- Para crear un enlace en Markdown debes situar entre corchetes el texto que quieres enlazar, también conocido como anchor. Seguidamente, debes usar paréntesis para definir la URL a la que debe enlazar en texto del enlace.
+
+![ENLACES](https://user-images.githubusercontent.com/90915761/196227464-a840c40d-9899-484e-96a9-2adfb73fd1d9.png)
+
+- Para agregar imágenes con Markdown debes agregar un signo de exclamación "!" seguido del texto alternativo o alt de la imagen entre "corchetes" y de la URL de la imagen entre paréntesis.
+
+![IMAGEN](https://user-images.githubusercontent.com/90915761/196228217-cd0141f6-1089-4cf7-a210-a71481e88270.png)
 
 ### 4- HTML
-
-HTML -> HyperText Markup Language.
->Es un estándar que define la estructura básica y el código (llamado código HTML) para definir contenido web como texto, imágenes, videos, juegos, etc.
