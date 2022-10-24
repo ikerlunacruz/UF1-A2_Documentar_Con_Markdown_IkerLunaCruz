@@ -1,6 +1,18 @@
 #### UF1-A2_Documentar_Con_Markdown_IkerLunaCruz
 # ¡Documentación sobre markdown!
 
+## ÍNDICE
+1- Visual Studio.  
+2- Github.    
+  >2-1 Instalación Git.  
+  2-2 Registrarnos en el github.    
+  2-3 Como crear repositorios.    
+  >2-4 Clonación de repositorio. 
+  
+3- Markdown.  
+4- HTML.  
+
+
 ### 1- VISUAL STUDIO CODE
 
 >Es un editor de código fuente independiente que se ejecuta en Windows, macOS y Linux. La elección principal para desarrolladores web y JavaScript, con extensiones para admitir casi cualquier lenguaje de programación.
@@ -76,3 +88,44 @@ Después d haber copiado el codigo, debemos ir a Visual Studio Code y utilizar e
 ![IMAGEN](https://user-images.githubusercontent.com/90915761/196228217-cd0141f6-1089-4cf7-a210-a71481e88270.png)
 
 ### 4- HTML
+
+*Header*
+>El elemento Header de HTML representa un grupo de ayudas introductorias o de navegación. Puede contener algunos elementos de encabezado, así como también un logo, un formulario de búsqueda, un nombre de autor y otros componentes.
+
+![Screenshot_1675446](https://user-images.githubusercontent.com/90915761/197575734-948b28e4-0984-4573-9eb1-10916d9416d3.png)
+
+*Body*
+>El elemento body de HTML representa el contenido de un documento HTML. Solo puede haber un elemento bodyen un documento.
+
+![Screenshot_23444434](https://user-images.githubusercontent.com/90915761/197577086-c78121f6-19c2-41e7-8f73-7cb24f3e86f9.png)
+
+*Encabezados*
+>Los elementos de encabezado implementan seis niveles de encabezado del documento, h1 es el más importante, y h6 el menos importante. Un elemento de encabezado describe probablemente el tema de la sección que presenta. La información de encabezado puede ser usada por los agentes usuarios, por ejemplo, para construir una tabla de contenidos para un documento automáticamente.
+
+![download](https://user-images.githubusercontent.com/90915761/197577840-bf3696f3-4d6c-4896-907c-ce7a46e48532.jpg)
+
+*Imagen*
+>¿Qué es la etiqueta imagen?
+La etiqueta img permite que se muestren las imágenes, pero en caso de que el archivo esté dañado también es capaz de describir el gráfico con algunos atributos, lo que es ideal para ordenadores con navegadores no gráficos, como los utilizados por personas con discapacidad visual.
+
+![Screenshot_2](https://user-images.githubusercontent.com/90915761/197579621-0f4f49b6-feb6-43d7-867f-80984953ae1d.png)
+
+*p*
+>El elemento p (párrafo) es el apropiado para distribuir el texto en párrafos.
+
+![Screenshot_3](https://user-images.githubusercontent.com/90915761/197580071-d9d75d5c-7d46-4b93-b241-bbb2c038d202.png)
+
+*favicon*
+>El favicon es un icono que identifica un sitio web cuando está abierto en una pestaña o cuando es guardado como favorito.
+
+![Screenshot_4](https://user-images.githubusercontent.com/90915761/197580581-9ab47fb7-cf84-456a-9d8c-5cbab7e2ded7.png)
+
+*br*
+>El elemento HTML salto de línea br produce un salto de línea en el texto (retorno de carro).
+
+![Screenshot_5](https://user-images.githubusercontent.com/90915761/197580989-85736cd8-6c3a-4df5-9cc5-d173086d095e.png)
+
+*hr*
+>El hr define un cambio de tema en una página HTML.
+
+![Screenshot_6](https://user-images.githubusercontent.com/90915761/197581541-dbde60f4-e4d0-40b7-9889-12951df05894.png)
