@@ -11,6 +11,7 @@
   
 3- Markdown.  
 4- HTML.  
+5- CSS.
 
 
 ### 1- VISUAL STUDIO CODE
