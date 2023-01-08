@@ -133,4 +133,35 @@ La etiqueta img permite que se muestren las imágenes, pero en caso de que el ar
 
 ###  5-CSS
 
--Google Fonts - Podemos editar la fuente de nuestro documento a partir de Google Fonts. Una herramienta de Google que nos permite utilizar una gran variedad de fuentes, sin necesidad de descargarnoslas en nuestro ordenador. 
+*Google Fonts*
+>Podemos editar la fuente del documento desde Google Fonts. Una herramienta de Google que te permite usar diferentes fuentes sin descargarlas a tu computadora.
+
+![Google_Fonts_logo svg](https://user-images.githubusercontent.com/90915761/211214043-bfdca970-ff3d-4ea2-af62-3583d1cb6dcf.png)
+
+
+*Relleno*
+>El espacio entre el borde de un elemento y su contenido. La propiedad "relleno", como las otras anteriores, se deriva de cuatro propiedades específicas para los cuatro lados: relleno superior, relleno derecho, relleno inferior y relleno izquierdo.
+
+*Margen*
+>Representan el área transparente alrededor de la caja. Es decir, el espacio que lo separa de los elementos adyacentes.
+
+*Selector de elementos*
+>Corresponde con todos los elementos de este nombre en la página.
+
+*Selector id*
+>Corresponde a todos los elementos HTML que tienen un atributo id con el valor especificado.
+
+*Selector clase*
+>Corresponde con todos los elementos que tienen el atributo class con el valor especificado.
+
+*Selector universal*
+>Sirven para seleccionar todos los elementos de la página.
+
+*Selectores hijos*
+>Para seleccionar elementos concretos que son hijos directorios de otros elementos concretos.
+
+*Selectores descendientes*
+>Hace que los selectores de descendientes seleccionen los elementos pertinentes en cualquier punto de la jerarquía del elemento.
+
+*Pseudoclases*
+>Sirve para definir estilos a los diversos estados de los elementos, como por ejemplo, indicar que es un enlace.
