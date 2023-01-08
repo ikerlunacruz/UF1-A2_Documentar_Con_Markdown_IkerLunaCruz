@@ -130,3 +130,7 @@ La etiqueta img permite que se muestren las imágenes, pero en caso de que el ar
 >El hr define un cambio de tema en una página HTML.
 
 ![Screenshot_6](https://user-images.githubusercontent.com/90915761/197581541-dbde60f4-e4d0-40b7-9889-12951df05894.png)
+
+###  5-CSS
+
+-Google Fonts - Podemos editar la fuente de nuestro documento a partir de Google Fonts. Una herramienta de Google que nos permite utilizar una gran variedad de fuentes, sin necesidad de descargarnoslas en nuestro ordenador. 
